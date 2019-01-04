@@ -10,7 +10,6 @@ public class Test {
     public static void main(String[] args) {
         test();
         System.out.println("马上要下班啦！！");
-        System.out.println("测试冲突 测试冲突 测试合并！！");
         System.out.println("马上要下班啦！！Happy happy happy！！！");
     }
 
