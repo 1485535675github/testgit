@@ -14,6 +14,6 @@ public class Test {
     }
 
     public static void test(){
-        System.out.println("噜啦啦噜啦啦噜啦啦！！！！");
+        System.out.println("噜啦啦噜啦啦噜啦啦！");
     }
 }
