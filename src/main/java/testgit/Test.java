@@ -9,7 +9,7 @@ package testgit;
 public class Test {
     public static void main(String[] args) {
         test();
-        System.out.println("！！！！！！！！！！！！！！");
+        System.out.println("===============================");
         System.out.println("测试测试测试");
         System.out.println("!!!!!!!!!!!!!!!!");
         System.out.println("！！ 78777777happy happy！！！");
